@@ -2,6 +2,13 @@
 
 # LAB Java | Edge Services
 
+- [Students-info](https://github.com/anruiz-r/student-info-service)
+- [Grades-data](https://github.com/anruiz-r/grades-data-service)
+- [Student-catalog](https://github.com/anruiz-r/student-catalog-service)
+- [Discovery-server](https://github.com/anruiz-r/lab-java-intro-to-microservices)
+- [Api-gateway](https://github.com/anruiz-r/lab-java-edge-services/tree/main)
+
+
 ## Introduction
 
 We have just learned how to use OpenFeign for internal communication between services so let's practice a bit more.
